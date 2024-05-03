@@ -1,0 +1,27 @@
+******* PREGUNTAS ******
+
+
+a) ¿Qué sucedió con los archivos creados en el punto 1.b cuando se fusionó
+la rama “develop” como se indica en el punto 3.b?
+
+Respuesta: Los archivos quedaron sincronizados en ambas ramas el mismo contenido
+
+
+
+b) ¿Qué sucedió con el archivo creado en el punto 2.b cuando retornaste a la
+rama principal en el punto 2.e?
+
+Respuesta: El archivo desapareció.
+
+
+
+c) ¿En qué situación consideras que se pueda originar un conflicto como el del
+punto 4 en un proyecto de Software?
+
+Respuesta: Cuando no se tiene claridad de los archivos que van a editar los desarrolladores y salen editando el mismo archivo y agregando cambios.
+
+
+
+d) ¿Como te ayuda un SCV como GIT a organizar tus proyectos de Software?
+
+Respuesta: Me ayudaría mucho para dar control al desarrollo y sus etapas en que vaya creando o si en algún momento voy a necesitar la ayuda de alguien pueda editar y ver lo que ha hecho, si hay fallos entonces retornar a un punto estable.
